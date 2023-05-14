@@ -13,11 +13,10 @@
 
 
 <h2>
-  🛠️ Инструменты и библиотеки:
+  🛠️ Инструменты, которые использовались при разработке скрипта:
 </h2>
 
-- python
-- openpyxl==3.0.10
+- Python
 
 
 
@@ -29,13 +28,13 @@
   🚀 Зпуск приложения:
 </h2>
 
-- git clone https://github.com/ElishaFlacon/create-dot-file.git
-- cd create-dot-file
-- python -m venv <venv_name>
-- source <venv_name>/Scripts/activate (linux) or <venv_name>/Scripts/activate (windows)
-- pip install -r ./requirements.txt
+- `git clone https://github.com/ElishaFlacon/create-dot-file.git`
+- `cd create-dot-file`
+- `python -m venv <venv_name>`
+- `<venv_name>/Scripts/activate` (windows) или `source <venv_name>/Scripts/activate` (linux)
+- `pip install -r ./requirements.txt`
 - в MAIN_STR вводим необходимый текст
-- python main.py
+- `python main.py`
 <h3>
     Запускаем, не работет, ура! 🗿🚬
 </h3>
